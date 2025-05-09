@@ -87,7 +87,7 @@ export default function DataGovernanceCalendar() {
           <div className="text-4xl text-gray-300 self-end">"</div>
         </div>
 
-        {/* Action buttons */}
+        {/* Action buttons
         <div className="border-t p-4 flex justify-between bg-gray-50">
           <button 
             onClick={copyToClipboard}
@@ -103,7 +103,7 @@ export default function DataGovernanceCalendar() {
             <RefreshCw size={16} className="mr-1" />
             New Quote
           </button>
-        </div>
+        </div> */}
 
         {/* Tear-off effect */}
         <div className="relative">
