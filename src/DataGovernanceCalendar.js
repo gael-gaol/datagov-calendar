@@ -81,9 +81,11 @@ export default function DataGovernanceCalendar() {
         {/* Quote section */}
         <div className="p-8 flex flex-col items-center">
           <div className="text-4xl text-gray-300 mb-4">"</div>
-          <p className="text-center text-gray-800 text-lg font-serif italic mb-6">
-            {quote}
-          </p>
+            <div classname="p-6 bg-gray-50 rounded-md shadow-inner text-center">
+              <p className="text-center text-gray-800 text-lg font-serif italic mb-6">
+               {quote}
+              </p>
+            </div>
           <div className="text-4xl text-gray-300 self-end">"</div>
         </div>
 
@@ -106,12 +108,12 @@ export default function DataGovernanceCalendar() {
         </div> */}
 
         {/* Tear-off effect */}
-        <div className="relative">
+        {/* <div className="relative">
           <div className="h-3 bg-white border-t border-dashed"></div>
           <div className="absolute -bottom-3 left-1/2 transform -translate-x-1/2 text-gray-400 cursor-pointer hover:text-gray-600">
             <ArrowRight className="transform rotate-90" size={20} />
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
