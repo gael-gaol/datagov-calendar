@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datagov-calendar/static/css/main.f855e6bc.css",
+    "main.js": "/datagov-calendar/static/js/main.65b83873.js",
+    "static/js/453.c38ee353.chunk.js": "/datagov-calendar/static/js/453.c38ee353.chunk.js",
+    "index.html": "/datagov-calendar/index.html",
+    "main.f855e6bc.css.map": "/datagov-calendar/static/css/main.f855e6bc.css.map",
+    "main.65b83873.js.map": "/datagov-calendar/static/js/main.65b83873.js.map",
+    "453.c38ee353.chunk.js.map": "/datagov-calendar/static/js/453.c38ee353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.65b83873.js"
+  ]
+}
